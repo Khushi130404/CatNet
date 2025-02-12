@@ -11,3 +11,11 @@ CatNet is a simple machine learning project that classifies images as either a c
 - Includes training, optimization, and prediction functions
 
 - Provides test evaluations on new images
+
+## 📂 Dataset Information
+
+- 209 training images (64x64 RGB images)
+
+- 50 test images (64x64 RGB images)
+
+- Labels: 1 for cat, 0 for non-cat
