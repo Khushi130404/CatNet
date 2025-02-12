@@ -19,3 +19,9 @@ CatNet is a simple machine learning project that classifies images as either a c
 - 50 test images (64x64 RGB images)
 
 - Labels: 1 for cat, 0 for non-cat
+
+## 📊 Model Performance
+
+- Achieves high accuracy in detecting cats using a basic logistic regression approach.
+
+- You can improve the model by implementing deep learning using neural networks (e.g., TensorFlow/Keras).
