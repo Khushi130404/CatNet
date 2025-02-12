@@ -20,6 +20,15 @@ CatNet is a simple machine learning project that classifies images as either a c
 
 - Labels: 1 for cat, 0 for non-cat
 
+## 💻 Tech Stack
+
+- Python: Primary programming language
+- NumPy: For numerical computations
+- Matplotlib: For data visualization
+- PIL (Pillow): For image handling
+- SciPy: For scientific computing
+- h5py: For handling dataset storage in HDF5 format
+
 ## 📊 Model Performance
 
 - Achieves high accuracy in detecting cats using a basic logistic regression approach.
